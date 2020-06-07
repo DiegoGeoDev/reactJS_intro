@@ -56,9 +56,9 @@ desenvolvimento e formatação do código.<br>
 Comando mantido pelo Facebook para criar uma aplicação com configurações e dependências
 pré-configuradas.
 
-`Criar uma nova pasta para o projeto (nome do projeto)`
+`Criar uma nova pasta para o projeto com o nome do projeto`
 
-> npx create-react-app nome_do_pojeto
+> npx create-react-app nome do pojeto
 
 `Criar o projeto na pasta atual`
 
